@@ -1,0 +1,23 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and local workspace files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Office temporary files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# Build/cache artifacts
+.cache/
+__pycache__/
+*.pyc
+
+# Source PDF/PPT files are intentionally tracked in the first commit through Git LFS.
